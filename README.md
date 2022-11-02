@@ -1,18 +1,16 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
-
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daar over.
+## Heineken
 
-## Titel Website
+Ik heb de website van het beroemde biermerk Heieneken getest. De website heeft een mooie huisstijl en beschrijft hun verhaal, producten, sponsoring, commercials etc.
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+Zie hieronder de look and feel van de website:
 
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
+![devices-heineken-website](https://user-images.githubusercontent.com/112861375/199491372-7aa32e3d-7174-4f58-9c9f-ab1b276ec343.png)
 
-Schrijf een een samenvatting van de test bevindingen.
+## Beschrijving
 
+Deze opdracht gaat over het testen van een website. Dit is voor mensen die een beperking hebben. Hiervoor heb ik verschillende soorten testen gedaan om te kijken of het toegankelijk is voor deze doelgroep. Check mijn wiki voor de resultaten. 
 
 ## Licentie
 
