@@ -4,7 +4,7 @@
 
 Ik heb de website van het beroemde biermerk Heieneken getest. De website heeft een mooie huisstijl en beschrijft hun verhaal, producten, sponsoring, commercials etc.
 
-Zie hieronder de look and feel van de website:
+**Zie hieronder de look and feel van de website:**
 
 ![devices-heineken-website](https://user-images.githubusercontent.com/112861375/199491372-7aa32e3d-7174-4f58-9c9f-ab1b276ec343.png)
 
